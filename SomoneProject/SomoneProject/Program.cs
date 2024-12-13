@@ -13,8 +13,5 @@
             Console.WriteLine($"{num} * 2 = {DoubleNum(num)}");
         }
 
-        
-
-
     }
 }
