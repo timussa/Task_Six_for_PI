@@ -1,0 +1,14 @@
+D:\TeamCity\Task_Six_for_PI\SomoneProject\SomoneProject\bin\Debug\net8.0\SomeoneProject.exe
+D:\TeamCity\Task_Six_for_PI\SomoneProject\SomoneProject\bin\Debug\net8.0\SomeoneProject.deps.json
+D:\TeamCity\Task_Six_for_PI\SomoneProject\SomoneProject\bin\Debug\net8.0\SomeoneProject.runtimeconfig.json
+D:\TeamCity\Task_Six_for_PI\SomoneProject\SomoneProject\bin\Debug\net8.0\SomeoneProject.dll
+D:\TeamCity\Task_Six_for_PI\SomoneProject\SomoneProject\bin\Debug\net8.0\SomeoneProject.pdb
+D:\TeamCity\Task_Six_for_PI\SomoneProject\SomoneProject\obj\Debug\net8.0\SomeoneProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\TeamCity\Task_Six_for_PI\SomoneProject\SomoneProject\obj\Debug\net8.0\SomeoneProject.AssemblyInfoInputs.cache
+D:\TeamCity\Task_Six_for_PI\SomoneProject\SomoneProject\obj\Debug\net8.0\SomeoneProject.AssemblyInfo.cs
+D:\TeamCity\Task_Six_for_PI\SomoneProject\SomoneProject\obj\Debug\net8.0\SomeoneProject.csproj.CoreCompileInputs.cache
+D:\TeamCity\Task_Six_for_PI\SomoneProject\SomoneProject\obj\Debug\net8.0\SomeoneProject.dll
+D:\TeamCity\Task_Six_for_PI\SomoneProject\SomoneProject\obj\Debug\net8.0\refint\SomeoneProject.dll
+D:\TeamCity\Task_Six_for_PI\SomoneProject\SomoneProject\obj\Debug\net8.0\SomeoneProject.pdb
+D:\TeamCity\Task_Six_for_PI\SomoneProject\SomoneProject\obj\Debug\net8.0\SomeoneProject.genruntimeconfig.cache
+D:\TeamCity\Task_Six_for_PI\SomoneProject\SomoneProject\obj\Debug\net8.0\ref\SomeoneProject.dll
