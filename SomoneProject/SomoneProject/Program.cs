@@ -9,7 +9,8 @@
 
         static void Main(string[] args)
         {
-            int num = 5;
+            throw new Exception("lalala");
+            string num = "5";
             Console.WriteLine($"{num} * 2 = {DoubleNum(num)}")
         }
 
