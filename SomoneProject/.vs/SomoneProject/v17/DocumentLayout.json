@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\TeamCity\\Task_Six_for_PI\\SomoneProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6FEC0BE9-24AD-4DAA-9977-3885F2CBCFA5}|TestProject1\\TestProject1.csproj|d:\\teamcity\\task_six_for_pi\\somoneproject\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEC0BE9-24AD-4DAA-9977-3885F2CBCFA5}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9FC0E0F6-DC0A-40EB-AD2E-57E5A2AAE1F6}|SomoneProject\\SomeoneProject.csproj|d:\\teamcity\\task_six_for_pi\\somoneproject\\somoneproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FC0E0F6-DC0A-40EB-AD2E-57E5A2AAE1F6}|SomoneProject\\SomeoneProject.csproj|solutionrelative:somoneproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\TeamCity\\Task_Six_for_PI\\SomoneProject\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "D:\\TeamCity\\Task_Six_for_PI\\SomoneProject\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:20:16.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TeamCity\\Task_Six_for_PI\\SomoneProject\\SomoneProject\\Program.cs",
               "RelativeDocumentMoniker": "SomoneProject\\Program.cs",
               "ToolTip": "D:\\TeamCity\\Task_Six_for_PI\\SomoneProject\\SomoneProject\\Program.cs",
               "RelativeToolTip": "SomoneProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T17:41:24.564Z",
               "EditorCaption": ""

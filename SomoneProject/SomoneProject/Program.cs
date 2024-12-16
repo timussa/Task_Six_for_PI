@@ -1,6 +1,6 @@
 ﻿namespace SomeoneProject
 {
-    internal class Program
+    public class Program
     {
         public static int DoubleNum(int x)
         {
